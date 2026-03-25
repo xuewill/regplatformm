@@ -6,7 +6,7 @@ on:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_PREFIX: ghcr.io/${{ github.repository_owner }}/regplatform
+  IMAGE_PREFIX: ghcr.io/${{ github.repository_owner }}/regplatformm
 
 jobs:
   # ── 主应用（Go + Vue 前端）──────────────────────────────────────────────
